@@ -4,6 +4,9 @@
     "slug": "chasima-parent",
     "version": "1.0.0",
     "orientation": "portrait",
+    "splash": {
+      "backgroundColor": "#3B82F6"
+    },
     "android": {
       "package": "com.chasima.parent",
       "adaptiveIcon": {
