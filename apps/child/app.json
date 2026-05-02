@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "חסימה הורה",
-    "slug": "chasima-parent",
+    "name": "חסימה ילד",
+    "slug": "chasima-child",
     "version": "1.0.0",
     "orientation": "portrait",
     "android": {
-      "package": "com.chasima.parent",
+      "package": "com.chasima.child",
       "adaptiveIcon": {
-        "backgroundColor": "#3B82F6"
+        "backgroundColor": "#22C55E"
       }
     },
     "extra": {
